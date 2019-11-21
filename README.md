@@ -15,15 +15,15 @@ Disponível em: http://dadosabertos.mec.gov.br/prouni
 
 3. Base operacional completa disponível online: Disponível no Github
 
-4. Modelo do DW: modeloDW.mwb
+4. Modelo do DW: MODELODW.mwb
 
-5. Script SQL de criação do DW vazio: dumpDWINEP.rar
+5. Script SQL de criação do DW vazio: DumpPROJETODWVAZIO.rar
 
-6. Script SQL de criação do DW com os inserts dos dados: dumpDWINEP.rar
+6. Script SQL de criação do DW com os inserts dos dados: DumpPROUNIDW.rar
 
-7. ETL Dimensões: ETL.rar
+7. ETL Dimensões: ETL-Dimensões.rar
 
-8. ETL Fatos: ETL.rar
+8. ETL Fatos: ETL-fatocursos1.rar
 
 9. Consultas OLAP: RespostasDW.rar (Subpastas com arquivos para cada questão) e Respostas.pdf
 
