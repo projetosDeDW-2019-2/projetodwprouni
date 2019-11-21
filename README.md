@@ -29,4 +29,12 @@ Disponível em: http://dadosabertos.mec.gov.br/prouni
 
 10. Dicionário de dados: DicionarioDadosBaseOperacional.xls
 
-11. Código da implementação dos mapas de calor: mapadecalor.R pelo RStudio e Programa QGIS
+11. Código da implementação dos mapas de calor: mapadecalor.R pelo RStudio 
+
+
+## Mapa de Calor
+Instalar RStudio em https://rstudio.com/products/rstudio/download/
+
+Executar arquivo mapadecalor.R
+
+Alterar arquivo csv conforme questão. (CSVs e XLSX disponíveis na pasta de respostas)
