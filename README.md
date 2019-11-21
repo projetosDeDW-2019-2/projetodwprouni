@@ -9,7 +9,7 @@ Disponível em: http://dadosabertos.mec.gov.br/prouni
 
 ## Arquivos
 
-1. Modelo da base operacional: modelooperacional
+1. Modelo da base operacional: modelooperacional.mwb
 
 2. UM Script SQL de criação da base operacional com os inserts dos dados: DumpBaseOperacional
 
