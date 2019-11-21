@@ -1,3 +1,4 @@
-# projetodwprouni
+# Projeto DW Prouni
+Professora: Ceça Morais
 
-Projeto Data Warehouse INEP
+# Base de Dados
