@@ -5,7 +5,7 @@ Professora: Ceça Morais
 
 Prouni 2017
 
-Disponível em: http://inep.gov.br/microdados
+Disponível em: http://dadosabertos.mec.gov.br/prouni
 
 ## Arquivos
 
