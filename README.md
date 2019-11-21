@@ -37,4 +37,4 @@ Instalar RStudio em https://rstudio.com/products/rstudio/download/
 
 Executar arquivo mapadecalor.R
 
-Alterar arquivo csv conforme questão. (CSVs e XLSX disponíveis na pasta de respostas)
+Alterar arquivo csv conforme questão. (CSVs e XLSX disponíveis na pasta de respostas).
