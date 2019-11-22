@@ -31,7 +31,6 @@ Disponível em: http://dadosabertos.mec.gov.br/prouni
 
 11. Código da implementação dos mapas de calor: mapadecalor.R pelo RStudio 
 
-
 ## Mapa de Calor
 Instalar RStudio em https://rstudio.com/products/rstudio/download/
 
