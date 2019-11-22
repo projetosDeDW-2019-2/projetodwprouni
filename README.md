@@ -27,7 +27,7 @@ Disponível em: http://dadosabertos.mec.gov.br/prouni
 
 9. Consultas OLAP: RespostasDW.rar (Subpastas com arquivos para cada questão) e Respostas.pdf
 
-10. Dicionário de dados: DicionarioDadosBaseOperacional.xls
+10. Dicionário de dados: DicionarioDeDadosNormalizado.docx
 
 11. Código da implementação dos mapas de calor: mapadecalor.R pelo RStudio 
 
